@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cronograma.riskmathics.ai/sitemap.xml
